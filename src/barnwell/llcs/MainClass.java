@@ -4,7 +4,7 @@
  * firstNumber		Int			First number user wants to calculate
  * secondNumber		Int			Second number user wants to calculate
  * total			Int			Final calculation*/
-
+// comment //
 package barnwell.llcs;
 
 import java.util.Scanner;
